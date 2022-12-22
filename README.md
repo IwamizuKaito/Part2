@@ -9,3 +9,8 @@
 - bottle
 - brush
 - clock
+
+#楽器
+- bell
+- cello
+- drum

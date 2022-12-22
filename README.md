@@ -1,16 +1,16 @@
 #2023年のおすすめランキング
 
-#職業
+#好きな職業
 - artist
 - cook
 - dancer
 
-#日用品
+#好きな日用品
 - bottle
 - brush
 - clock
 
-#楽器
+#好きな楽器
 - bell
 - cello
 - drum

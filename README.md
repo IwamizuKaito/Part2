@@ -4,3 +4,8 @@
 - artist
 - cook
 - dancer
+
+#日用品
+- bottle
+- brush
+- clock
